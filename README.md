@@ -3,7 +3,7 @@ Documentation of my homelab. Proxmox virtualization, VLAN-segmented network desi
 
 ## Overview
 
-This repo tracks the design, build, and ongoing configuration of a segmented home lab used for practicing offensive/defensive security concepts, network engineering, and malware analysis in isolation from my home network.
+This repo tracks the build and configuration of a segmented home lab used for practicing offensive/defensive security concepts, network engineering, and malware analysis in isolation from my home network.
 
 ## Hardware
 
