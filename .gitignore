@@ -1,0 +1,27 @@
+# Secrets / credentials 
+*.env
+.env
+*secrets*
+*credentials*
+*.key
+*.pem
+id_rsa*
+id_ed25519*
+*.pfx
+
+# Tailscale
+tailscale-auth-key*
+
+# Non-sanitized switch/Proxmox configs
+*-real.conf
+*-live.cfg
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local notes not meant for the repo
+notes/
