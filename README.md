@@ -13,4 +13,4 @@ This repo tracks the build and configuration of a segmented home lab used for pr
 | CPU | Intel Core i5-8500 (6C/6T) |
 | RAM | 32GB DDR4 |
 | Storage | NVMe SSD (Size TBD) |
-| Switch | Cisco Catalyst WS-C2960CX-8TC-L (LAN Base) |
+| Switch | Cisco Catalyst WS-C2960CX-8TC-L |
